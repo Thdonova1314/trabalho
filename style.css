@@ -1,0 +1,152 @@
+.TYPE
+{
+   width: 100%;
+   height: 58px;
+   display: flex;
+   justify-content: center;
+   background-color: rgb(57, 83, 41);
+   color: rgb(255, 255, 255);
+}
+
+.foto
+{
+   display: flex;
+  justify-content: center;
+  
+
+}
+
+.paragrafo
+{
+   max-width: 1000px;
+   margin: auto;
+text-align: justify;
+
+}
+
+.foto2
+{
+   display: flex;
+  justify-content: center;
+
+}
+
+
+
+.foto3
+{
+   display: flex;
+  justify-content: center;
+
+
+}
+
+
+.foto4
+{
+   display: flex;
+  justify-content: center;
+
+
+}
+
+.foto5
+{
+  justify-content: center;
+   display: flex;
+
+}
+
+.fotos
+{
+   display: flex;
+   justify-content: center;
+
+}
+
+.foto22
+{
+   display: flex;
+   justify-content: center;
+
+
+}
+
+
+.foto33
+{
+   display: flex;
+   justify-content: center;
+
+
+
+}
+
+.Curiosidade
+{
+   text-align: center;
+
+
+
+}
+
+
+
+.video
+{
+   justify-content: center;
+   display: flex;
+
+
+
+}
+
+.livro
+{
+   justify-content: center;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+
+}
+
+
+body
+{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   background-color: rgb(255, 255, 255);
+   color: rgb(0, 0, 0);
+
+}
+
+h2
+{
+  text-align: center;
+
+
+}
+
+   @media(max-width: 700px)
+   {
+      .corpo
+      {
+         flex-direction: column;
+
+
+      }
+
+   }
+   .VITIMAS
+   {
+      display: flex;
+      justify-content: center;
+   }
+   .fim
+   {
+      width: 100%;
+      height: 90px;
+   background-color: rgb(57, 83, 41);
+   color: white;
+   display: flex;
+   justify-content: space-around;
+   }
